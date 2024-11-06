@@ -107,7 +107,7 @@ To connect to the MySQL database server in your local environment, you will use 
 
 ### Step 4: Save the Connection
 1. Click **"OK"** to save the connection.
-2. Optionally, check **"Store in Vault"** to save your password for future use, so you don’t need to re-enter it each time.
+2. Optionally, check **"Store in Vault"** to save your password for future use, so you don't need to re-enter it each time.
 
 ### Step 5: Connect to the Database
 - The new connection will now appear in the **Welcome** section of MySQL Workbench.
