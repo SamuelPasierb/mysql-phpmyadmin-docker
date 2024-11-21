@@ -1,7 +1,5 @@
 ## In-Class Task 2: Working with Tables - Create Table
 
-You are required to complete the following tasks in-class on the same day and push it to GitHub. (1 point)
-
 1. **Create a Database**: Write a SQL statement to create a new database named fnameClass2 (replace fname with your first name).
 
 mysql> CREATE DATABASE SamuelClass2;
